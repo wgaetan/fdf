@@ -11,7 +11,7 @@ Usage:
 You can change render colors by changin defines in includes/fdf.h.
 
 Keys:
-  q/w: rotating camera around Z axis
-  a/s: rotating camera around Y axis
-  +/-: zoom
-  arrows: changing render offset on screen
+  * q/w: rotating camera around Z axis
+  * a/s: rotating camera around Y axis
+  * +/-: zoom
+  * arrows: changing render offset on screen
